@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../algo/leetcode/editor/cn/188-买卖股票的最佳时机 IV.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/doc/content/188-买卖股票的最佳时机 IV.md" />
+              <option name="frontendQuestionId" value="leetcode.cn188" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/188-买卖股票的最佳时机 IV.go" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algo/leetcode/editor/cn/1884-鸡蛋掉落-两枚鸡蛋.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/doc/content/1884-鸡蛋掉落-两枚鸡蛋.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1884" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/1884-鸡蛋掉落-两枚鸡蛋.go" />
+              <option name="titleSlug" value="egg-drop-with-2-eggs-and-n-floors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algo/leetcode/editor/cn/316-去除重复字母.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/doc/content/316-去除重复字母.md" />
+              <option name="frontendQuestionId" value="leetcode.cn316" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/316-去除重复字母.go" />
+              <option name="titleSlug" value="remove-duplicate-letters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algo/leetcode/editor/cn/面试题 17.26-稀疏相似度.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/doc/content/面试题 17.26-稀疏相似度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 17.26" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algo/leetcode/editor/cn/面试题 17.26-稀疏相似度.go" />
+              <option name="titleSlug" value="sparse-similarity-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
